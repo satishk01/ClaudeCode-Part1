@@ -1,0 +1,6 @@
+create a system prompt for the code in this folder use this as a reference and the system prompt should be built to use with AWS Bedrock Anthrtopic Claude sonnet 3.5 
+to genertae code. The new code generated should have the capability to generate Full code starting from scratch as well as option to add new api endpoints based on user 
+prompts to the existing code . The  Generated code should follow the coding standards and pattern as of the existing code structure. Please save the system 
+prompt in the file "advaned-system-promts.txt". Next build 10 sample user promot examples which can be used with the generated system prompts to built the 
+funcitonality from scratch and also add new api endpoints which covers all unique cases to the existing code and save all these example prompts in 
+the file "advanced-examle-promots.txt".
